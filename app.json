@@ -1,12 +1,12 @@
 {
-    "name": "SlayerX Music",
+    "name": "Rise X Music",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://graph.org/file/e27e233e14eb9f3271885.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "SlayerX",
+    "RiseX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
